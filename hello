@@ -5,7 +5,7 @@
 SW_CREW=("Leia" "R2D2" "Han Solo" "Chewbakka")
 
 for crew_member in "${SW_CREW[@]}"; do
-  echo "Hi ${crew_member}"
+  echo "Hello all ${crew_member}"
 done
 
 echo "Hi everyone"
